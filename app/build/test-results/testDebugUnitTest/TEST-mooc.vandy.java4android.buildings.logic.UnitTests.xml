@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="mooc.vandy.java4android.buildings.logic.UnitTests" tests="17" skipped="0" failures="0" errors="0" timestamp="2022-06-11T07:32:01" hostname="LAPTOP-7EO4TG1C" time="0.027">
+  <properties/>
+  <testcase name="testCottageSecondFloor" classname="mooc.vandy.java4android.buildings.logic.UnitTests" time="0.001"/>
+  <testcase name="testHouseToString" classname="mooc.vandy.java4android.buildings.logic.UnitTests" time="0.001"/>
+  <testcase name="testOfficeEquals" classname="mooc.vandy.java4android.buildings.logic.UnitTests" time="0.01"/>
+  <testcase name="testOfficeArea" classname="mooc.vandy.java4android.buildings.logic.UnitTests" time="0.0"/>
+  <testcase name="testBuildingSetAndGet" classname="mooc.vandy.java4android.buildings.logic.UnitTests" time="0.0"/>
+  <testcase name="testOfficeString" classname="mooc.vandy.java4android.buildings.logic.UnitTests" time="0.0"/>
+  <testcase name="testNeighborhoodArea" classname="mooc.vandy.java4android.buildings.logic.UnitTests" time="0.001"/>
+  <testcase name="testBuildingLotArea" classname="mooc.vandy.java4android.buildings.logic.UnitTests" time="0.0"/>
+  <testcase name="testBuildingArea" classname="mooc.vandy.java4android.buildings.logic.UnitTests" time="0.0"/>
+  <testcase name="testHouseEquals" classname="mooc.vandy.java4android.buildings.logic.UnitTests" time="0.001"/>
+  <testcase name="testOfficeConstructor" classname="mooc.vandy.java4android.buildings.logic.UnitTests" time="0.001"/>
+  <testcase name="testCottageSingleFloor" classname="mooc.vandy.java4android.buildings.logic.UnitTests" time="0.001"/>
+  <testcase name="testOfficeLotArea" classname="mooc.vandy.java4android.buildings.logic.UnitTests" time="0.001"/>
+  <testcase name="testHouseAreas" classname="mooc.vandy.java4android.buildings.logic.UnitTests" time="0.001"/>
+  <testcase name="testSetSpaces" classname="mooc.vandy.java4android.buildings.logic.UnitTests" time="0.001"/>
+  <testcase name="testHouseOwner" classname="mooc.vandy.java4android.buildings.logic.UnitTests" time="0.001"/>
+  <testcase name="testHousePool" classname="mooc.vandy.java4android.buildings.logic.UnitTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
